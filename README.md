@@ -11,11 +11,11 @@ Sundown Studio is a visually rich, animated, responsive, and interactive front-e
 - Footer with newsletter-style email input
 - Mobile menu toggle functionality
 
-Technologies Used
-HTML5
-CSS3
-JavaScript (Vanilla)
-Locomotive Scroll
-Swiper.js
-Responsive Web Design Techniques
+⚙️Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Locomotive Scroll
+- Swiper.js
+- Responsive Web Design Techniques
 
